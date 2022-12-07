@@ -21,7 +21,7 @@ The project entailed: - Loading and cleaning a small subset (128MB) of a larger 
 ## File Descriptions
 To demonstrate my work in predicting churn, I have one Jupyternotebook with markdown cells were used throughout to explain my processes.
 ## Medium Blog Post 
-My Article could be found here [Medium Blog Post]()
+My Article could be found here [Medium Blog Post](https://medium.com/@nguyenkhanhbao8695/sparkify-churn-prediction-for-a-music-streaming-service-2618abc372cf)
 By weighing F1 score and accuracy metrics, the best model was determined to be a Random Forest Classifier.
 The final model received an F1 rating and an Accuracy score of 0.75.
 
